@@ -1,7 +1,10 @@
 # AADHAAR-CARDOCR-USING-SRGAN
 Extracted Aadhar Card Number using Pytesseract-OCR from bad quality aadhar images using SRGAN and then validate it using Regex.
+
 Project:- https://drive.google.com/drive/folders/1HEwF2cj0jZwQ0MuKVMi-jMCTEV4tg28Q?usp=sharing
-Colab Notebook Link:- https://colab.research.google.com/drive/1N3owZRFLrSLNVSFy6Eh37zDNTChwKqn2?usp=sharing 
+
+Colab Notebook Link:- https://colab.research.google.com/drive/1N3owZRFLrSLNVSFy6Eh37zDNTChwKqn2?usp=sharing
+
 Reference:- https://github.com/idealo/image-super-resolution
 
 Process Used:- Described in the given file using comments (OCR.ipynb)
