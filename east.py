@@ -1,3 +1,4 @@
+
 # import the necessary packages
 import imutils
 from imutils.object_detection import non_max_suppression
@@ -127,3 +128,4 @@ for i in crop:
 print(text)
 
 #use regex and verhoeff algorithm as shown in ocr.py
+
